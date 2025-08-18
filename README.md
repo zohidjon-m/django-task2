@@ -1,5 +1,5 @@
 
-# Django Multi-Tenant Mini App – Task 2
+# Multi-Tenant Mini App – Task 2
 
 This project simulates a production-style multi-tenant application using PostgreSQL schema-based tenant isolation via `django-tenants`. It includes tenant-specific configuration and feature toggles.
 
